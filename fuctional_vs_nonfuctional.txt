@@ -1,0 +1,41 @@
+Funktsional va funktsional bo'lmagan talablar
+Talablarni tahlil qilish tizim yoki dasturiy ta'minot 
+loyihasining muvaffaqiyatini baholashga imkon beruvchi muhim jarayondir. 
+Talablar odatda ikki turga bo'linadi: funktsional va funktsional bo'lmagan talablar. 
+funktsional talablar tizimning o'ziga xos xatti-harakati yoki funktsiyalarini belgilaydi. 
+Bundan farqli o'laroq, funktsional bo'lmagan talablar tizim o'z vazifalarini qanday bajarishini aniqlaydi va ishlash, xavfsizlik, 
+miqyoslilik va qulaylik kabi atributlarga e'tibor qaratadi.
+
+Funktsional talablar qanday?
+Bu oxirgi foydalanuvchi tizim taklif qilishi kerak bo'lgan asosiy imkoniyatlar sifatida talab qiladigan talablardir. Ushbu funktsiyalarning barchasi shartnomaning bir qismi sifatida tizimga kiritilishi kerak.
+
+Ular tizimga kiritilishi kerak bo'lgan ma'lumotlar, bajarilgan operatsiya va kutilgan natijalar ko'rinishida ifodalanadi yoki ifodalanadi.
+Ular foydalanuvchi tomonidan bildirilgan talablar bo'lib, ular funktsional bo'lmagan talablardan farqli o'laroq, yakuniy mahsulotda bevosita ko'rish mumkin.
+Misollar:
+
+Ushbu tizim uchun qanday xususiyatlarni loyihalashimiz kerak?
+Dizaynimizda, agar mavjud bo'lsa, qanday cheklov holatlarini hisobga olishimiz kerak?
+
+
+Funktsional bo'lmagan talablar nima?
+Bular loyiha shartnomasiga muvofiq tizim qondirishi kerak bo'lgan sifat cheklovlari. Ushbu omillarning amalga oshirilishining ustuvorligi yoki darajasi bir loyihadan boshqasiga farq qiladi. Ular xulq-atvorga bog'liq bo'lmagan talablar deb ham ataladi. Ular quyidagi kabi masalalarni hal qilishadi:
+
+Portativlik
+Xavfsizlik
+Saqlash qobiliyati
+Ishonchlilik
+Masshtablilik
+Ishlash
+Qayta foydalanish imkoniyati
+Moslashuvchanlik
+Misollar:
+
+Har bir so'rov minimal kechikish bilan qayta ishlanishi kerakmi?
+Tizim juda qimmatli bo'lishi kerak.
+Kengaytirilgan talablar nima?
+Bular asosan tizim doirasidan tashqarida bo'lishi mumkin bo'lgan "bo'lishi yoqimli" talablardir.
+
+Misol:
+
+Bizning tizimimiz o'lchovlar va tahlillarni yozib olishi kerak.
+Xizmat ko'rsatish sifati va ishlashi monitoringi.
